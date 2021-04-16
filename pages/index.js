@@ -1,6 +1,4 @@
 import React from 'react'
 
-const Index = () => {
-  return 'Hello World'
-}
+const Index = () => 'AndersonSouzaDev API'
 export default Index
